@@ -1,0 +1,1 @@
+### Ejemplo de utilizacion del patron de diseño de software singleton con un logger
