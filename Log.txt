@@ -1,0 +1,39 @@
+15/1/2025 12:31:53 - Test Logger
+15/1/2025 12:32:10 - Test Logger
+15/1/2025 12:32:32 - Test Logger
+15/1/2025 12:40:45 - Test Logger
+15/1/2025 12:40:45 - Test Logger
+15/1/2025 12:47:05 - Test Logger
+15/1/2025 12:47:05 - Test Logger
+15/1/2025 12:47:05 - Test Logger
+15/1/2025 12:47:39 - Test Logger
+15/1/2025 12:47:39 - Test Logger
+15/1/2025 12:47:39 - Test Logger
+15/1/2025 12:47:58 - Test Logger
+15/1/2025 12:47:58 - Test Logger
+15/1/2025 12:47:58 - Test Logger
+15/1/2025 12:49:22 - Test Logger
+15/1/2025 12:49:22 - Test Logger
+15/1/2025 12:49:22 - Test Logger
+15/1/2025 12:49:48 - Test Logger
+15/1/2025 12:49:48 - Test Logger
+15/1/2025 12:49:48 - Test Logger
+15/1/2025 12:50:20 - Test Logger
+15/1/2025 12:50:20 - Test Logger
+15/1/2025 12:50:20 - Test Logger
+LogInformation - 15/1/2025 14:33:56 - Inicio del Logger.
+LogInformation - 15/1/2025 14:33:56 - Test Logger
+LogInformation - 15/1/2025 14:33:56 - Test Logger
+LogInformation - 15/1/2025 14:33:56 - Test Logger
+LogInformation - 15/1/2025 16:32:35 - Inicio del Logger.
+LogInformation - 15/1/2025 16:32:37 - Test Logger
+LogInformation - 15/1/2025 16:32:37 - Test Logger
+LogInformation - 15/1/2025 16:32:38 - Test Logger
+LogInformation - 15/1/2025 16:36:06 - Inicio del Logger.
+LogInformation - 15/1/2025 16:36:11 - Test Logger
+LogInformation - 15/1/2025 16:36:11 - Test Logger
+LogInformation - 15/1/2025 16:36:11 - Test Logger
+LogInformation - 15/1/2025 16:42:03 - Inicio del Logger.
+LogInformation - 15/1/2025 16:42:03 - Test Logger
+LogInformation - 15/1/2025 16:42:03 - Test Logger
+LogInformation - 15/1/2025 16:42:03 - Test Logger
