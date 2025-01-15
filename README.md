@@ -1,1 +1,1 @@
-### Ejemplo de utilizacion del patron de diseño de software singleton con un logger
+### Ejemplo de utilizacion del patron de diseño de software singleton con un logger en C#
